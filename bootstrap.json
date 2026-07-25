@@ -1,3 +1,17 @@
 {
-  "manifestUrl": "https://script.google.com/macros/s/AKfycbzfoZAknXnVpsd2pJk_bs32w_S1mv2mfLPqwA9udMs9FvHRp_uJQGi4Iv3hLlyb2L3S/exec?action=getLauncherManifest"
+  "defaultApp": "SG26OD001",
+  "apps": [
+    {
+      "key": "SG26OD001",
+      "name": "ODIR Singapore",
+      "manifestUrl": "https://script.google.com/macros/s/AKfycbzfoZAknXnVpsd2pJk_bs32w_S1mv2mfLPqwA9udMs9FvHRp_uJQGi4Iv3hLlyb2L3S/exec?action=getLauncherManifest",
+      "active": true
+    },
+    {
+      "key": "VN26ZW001",
+      "name": "ZHIWEI VN",
+      "manifestUrl": "https://script.google.com/macros/s/AKfycbzfoZAknXnVpsd2pJk_bs32w_S1mv2mfLPqwA9udMs9FvHRp_uJQGi4Iv3hLlyb2L3S/exec?action=getLauncherManifest",
+      "active": true
+    }
+  ]
 }
